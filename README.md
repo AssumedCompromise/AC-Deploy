@@ -1,6 +1,6 @@
 # Assumed Comprmise Methodology
 
-![Add1](images/add1.png)
+![A C2](images/AC2.png)
 
 ## Course Pre-Requisites
 
