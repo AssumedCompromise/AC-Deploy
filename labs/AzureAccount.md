@@ -1,4 +1,4 @@
-# ADD Pre-Requisite : Azure Account (Upgraded)
+# AC Pre-Requisite : Azure Account (Upgraded)
 
 Students are required to have an upgraded Azure account.  
 

@@ -1,5 +1,5 @@
 
-# ADD Pre-Requisite : GitHub Account
+# AC Pre-Requisite : GitHub Account
 
 Students can create a free GitHub account by going to https://github.com/signup and signing up for an account.  
 
