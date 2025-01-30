@@ -72,41 +72,7 @@ The full deployment will take approximately 45 minutes.  You do not need to keep
 </blockquote>
 </details>
 
-<Details><summary> <b>Step 2: Connect Log Sources</b></summary>
-<blockquote>
-
-
-In the previous step you deployed the DOAZLab environment into your Azure account. The full deployment takes approximately 45 minutes.  In the following section, you will configure the new lab environment to report logs to Azure Sentinel.  You must wait for deployment from the prior step to complete before continuing.
-
-From the main Azure Portal screen search "log analytics" and select "Log Analytics workspaces."  In the new pane, select the only available Log Analytics workspace.
-
-| ![](../images/azb-1.png) |
-|------------------------|
-
-Alternatively you may also find your Log Analytics workspace from the Azure Resources pane.  Note that your workspaces naming convention and will differ from the name shown in the screen below.
-
-| ![](../images/prls3-1.jpg) |
-|----------------------------|
-
-Click through to the Log Analytics workspace. Once there, scroll down and choose virtual machines under the "Workspace Data Sources" section. 
-
-| ![](../images/prls3-2.jpg) |
-|----------------------------|
-
-As shown below, your initial connection to the lab will require connecting each VM to the workspace.
-
-| ![](../images/prls3-3.jpg) |
-|----------------------------|
-
-Click on each virtual and complete the initial connection process. 
-
-| ![](../images/prls3-4.jpg) |
-|----------------------------|
-
-</blockquote>
-</details>
-
-<Details><summary> <b>Step 3: Gather Public IP Addresses for Access</b></summary>
+<Details><summary> <b>Step 2: Gather Public IP Addresses for Access</b></summary>
 <blockquote>
 
 Gather your public IP addresses. 
