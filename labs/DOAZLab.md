@@ -89,9 +89,9 @@ Click through each resource to gather the assigned public IP addresses.
 
 As you gather them up, document them! The addresses in the list below do not represent your IP addresses.
 
-* DC Public IP: 13.67.200.257
-* Nux Public IP: 40.86.95.257
-* WS Public IP: 13.86.95.257
+* DC Public IP: 13.67.200.257 (Your IP will be different) 
+* Nux Public IP: 40.86.95.257 (Your IP will be different) 
+* WS Public IP: 13.86.95.257 (Your IP will be different) 
 
 
 </blockquote>
