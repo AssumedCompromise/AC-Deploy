@@ -69,13 +69,30 @@ Whether you agree or not, should you choose to click Create, you implicitly do.
 |----------------------------|
 
 The full deployment will take approximately 45 minutes.  You do not need to keep the window open, the process will continue even if you close it.  In the following section, you will configure the new lab environment to report logs to Azure Sentinel.  You must wait for deployment to complete before continuing.
+
+After the deployment is complete, you can expand the "Deployment details" section.  The A completed deployment will look similar to below. 
+
+| ![Build Complete](../images/BuildComplete.png) |
+|-------------------------------------------|
+
 </blockquote>
 </details>
 
 <Details><summary> <b>Step 2: Gather Public IP Addresses for Access</b></summary>
 <blockquote>
 
-Gather your public IP addresses. 
+Gather your public IP addresses.  
+
+There are two ways to capture the public IP addresses of the labs.  
+
+The first method starts from the completed Deployment screen in the Azure portal. If you are still on the completed Deployment screen, you can click on Outputs on the left hand side.  This will show your public IP addresses.
+
+| ![Outputs](../images/Outputs.png) |
+|-----------------------------------|
+
+The second Method to gather your public IP addresses are within the Resource Group where all of the lab environment azure resources are contianed.  
+
+Access the portal website and navigate to your resource group and find your public IP addresses.
 
 **https://portal.azure.com/#home --> Resource groups --> <DO_Lab_Resource_Group> --> Resources --> Filter --> "public"**
 
