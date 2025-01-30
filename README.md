@@ -1,4 +1,4 @@
-# Assumed Comprmise Methodology
+# Assumed Compromise Methodology
 
 ![A C2](images/AC2.png)
 
