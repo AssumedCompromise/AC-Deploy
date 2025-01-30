@@ -35,7 +35,7 @@ _Conduct Lab Operations from Azure Portal_
 &#x1F4AC; UI Nuances  
 &#x1F4AC; Data Collection Rules  
 &#x2611; Introduction to Azure Sentinel  
-&#x2611; Installing and Conifguring Azure Monitor Agents  
+&#x2611; Installing and Configuring Azure Monitor Agents  
 &#x2611; Creation and assignment of Data Collection Rules  
 <!-- DO-LAB-OBJECTIVES END -->
 
